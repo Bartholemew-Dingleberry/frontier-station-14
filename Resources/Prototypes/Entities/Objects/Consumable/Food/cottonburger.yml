@@ -52,7 +52,7 @@
     layers:
     - state: cottonbun_bottom
     - map: ["foodSequenceLayers"]
-  - type: FoodSequenceStartPoint
+  - type: FoodSequenceStartPoint ////example!!! 
     key: CottonBurger
     maxLayers: 10
     startPosition: 0, 0
